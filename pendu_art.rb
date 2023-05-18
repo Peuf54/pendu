@@ -1,6 +1,6 @@
 class PenduArt
 
-  attr_reader :collection, :illustrations
+  attr_reader :illustrations
 
   def initialize
     @illustrations = {
